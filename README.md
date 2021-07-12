@@ -1,2 +1,3 @@
 # hello-world
-beginner repository
+
+I am trying to learn how Github works.
